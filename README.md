@@ -277,56 +277,12 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Zahra**
-
-- Portfolio: [Your Portfolio Link]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
 - Inspired by the need for accessible data science tools
 - Built with love for the data science community
 - Special thanks to the open-source community
-
----
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-*Clean, intuitive interface with easy navigation*
-
-### Data Upload & Preview
-![Data Upload](screenshots/upload.png)
-*Instant data quality assessment and preview*
-
-### Exploratory Data Analysis
-![EDA](screenshots/eda.png)
-*Comprehensive statistical summaries and correlations*
-
-### Interactive Visualizations
-![Visualizations](screenshots/viz.png)
-*Beautiful, interactive charts and plots*
-
-### Statistical Testing
-![Statistics](screenshots/stats.png)
-*Professional statistical analysis with interpretations*
-
-### Machine Learning
-![ML Models](screenshots/ml.png)
-*Train, evaluate, and compare ML models*
 
 ---
 
@@ -341,29 +297,6 @@ If you want to learn more about the concepts used in StatMaple:
 
 ---
 
-## 💡 Tips for Interviews
-
-When discussing this project in interviews:
-
-1. **Architecture**: Explain the modular design and separation of concerns
-2. **Scalability**: Discuss how the code could be extended for production
-3. **Testing**: Mention the built-in validation and error handling
-4. **Best Practices**: Highlight clean code, documentation, and type hints
-5. **User Experience**: Emphasize the intuitive UI and helpful guidance
-6. **Real-world Application**: Provide examples of how this could be used in business
-
----
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 Email: your.email@example.com
-- 💬 Open an issue on GitHub
-- 🌐 Check the [Wiki](wiki-link) for detailed documentation
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it useful!
@@ -371,3 +304,4 @@ If you have any questions or need help:
 **Made with ❤️ and ☕ by Zahra**
 
 </div>
+
