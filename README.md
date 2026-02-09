@@ -1,4 +1,4 @@
-# 📊 StatMaple - Smart Statistical & ML Toolkit
+# 📊 StatWhizMaple - Smart Statistical & ML Toolkit
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
@@ -304,4 +304,5 @@ If you want to learn more about the concepts used in StatMaple:
 **Made with ❤️ and ☕ by Zahra**
 
 </div>
+
 
